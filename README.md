@@ -51,10 +51,12 @@ python app.py
 http://127.0.0.1:5000
 ```
 The dashboard will display the model evaluation metric and the generated graphs.
+
 ---
 ## Model Evaluation
 The model is evaluated using Mean Absolute Error (MAE).
 MAE measures the average difference between actual and predicted sales values. A lower MAE indicates better prediction accuracy.
+
 ---
 ## Conclusion
 This project demonstrates the implementation of a simple sales forecasting system using basic machine learning techniques. It covers data preprocessing, model training, evaluation, and visualization in a structured and reproducible manner.
